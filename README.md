@@ -17,7 +17,7 @@ React.js App Powered By Next.js and Redux.
 
 ```
 npm i
-npm start
+npm run dev
 ```
 
 ### Testing it
